@@ -1,4 +1,8 @@
-# CalculateInfixNotationWithoutConvertingToPostfix
+# Calculate Infix Notation Without Converting To Postfix
+
+What is Infix, Prefix and Postix Notation?
+<img src='https://youtu.be/t7YWDiz8LMY' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 This programs uses infix notation and calculates arithmatic operations but does this without converting to a postfix notation first.
 
